@@ -1,0 +1,28 @@
+header {
+    background-color: #244751;
+    color: #C8DCDF;
+}
+
+body {
+    background-color: whitesmoke;
+    color:#2C805F;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.finstagram-post {
+    margin-bottom:48px;
+}
+
+.finstagram-post .user-info img {
+    border-radius: 25%;
+}
+
+body {
+    font-family: 'Markazi Text', serif;
+}
+
+css a.photo{ transition: padding 0.5s; } a.photo:hover{ padding: 10px; }
